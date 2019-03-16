@@ -12,7 +12,7 @@ As a developer in the study jam, you stand to get free access to:
 4. Upgrade your skills in Machine Learning, Cloud or Kubernetes
 
 ## How to get this repository in your local disk
-Hit the Fork button :Fork: at the top right of your github page
+Hit the Fork button at the top right of your github page
 Then open the forked repository in your github profile and follow the steps 
 * Open git bash
 * Redirect to the folder where you want the local repository
