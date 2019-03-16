@@ -139,6 +139,7 @@ ul.nosyely_list {
   min-width: 120px;
   background-color: #F44336;
   color: #ffffff;
+  content: "";
   font-size: 48px;
   font-weight: 600;
   text-align: center;
